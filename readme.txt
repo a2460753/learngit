@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 commit content
 github nice
 Creating a new branch is quick AND simple.
+fast forward
